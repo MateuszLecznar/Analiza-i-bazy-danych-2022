@@ -1,0 +1,13 @@
+Plik Cleaned_Data.csv w folderze Analysis_Data zawiera następujące kolumny:
+Dni_od_zakupu - Opisuje ile dni minęło od zakupu odkurzacza przez ankietowanego.
+Liczba całkowita.
+
+Marka - Nazwa marki odkurzacza zakupionego przez ankietowanego.
+
+Wiek_kupujacego - Liczba zmienno-przecinkowa równa wiekowi poszczególnego 
+ankietowanego lub NaN jeśli brakuje tej informacji.
+
+Plec_kupujacego - Informacja o płci poszczególnego ankietowanego zakodowana w postaci
+M - mężczyzna, K - Kobieta lub NaN jeśli brakuje ten informacji
+
+Ocena - Ocena jaką ankietowany wystawił zakupionemu odkurzaczowi.
